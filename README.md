@@ -1,4 +1,6 @@
-# stlutil
+# stl-util
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
 A set of utilities for creating and manipulating STL files.
 
