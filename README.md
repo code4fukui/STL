@@ -36,4 +36,4 @@ await Deno.writeFile("torusknot.stl", stl);
 ```
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).
